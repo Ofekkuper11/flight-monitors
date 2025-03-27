@@ -23,12 +23,12 @@
 cd server
 npm install
 npm start
-השרת ירוץ בכתובת:
+### השרת ירוץ בכתובת:
 
 http://localhost:5000
-2. הרצת הממשק (React)
+### 2. הרצת הממשק (React)
 cd client
 npm install
 npm start
-הדפדפן ייפתח אוטומטית על:
+### הדפדפן ייפתח אוטומטית על:
 http://localhost:3000
