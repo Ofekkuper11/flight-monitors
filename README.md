@@ -68,32 +68,5 @@ npm start
 
 ## 👨‍💻 פותח ע״י
 
-Ofek Kuper  
+אופק קופרמן
 במסגרת פרויקט מיון פרויקטנטים חיל האוויר
-
----
-
-## 📂 מבנה הפרויקט
-
-```bash
-flight-monitor/
-├── client/        # צד לקוח - React
-├── server/        # צד שרת - Node.js + Express
-├── README.md
-└── .gitignore
-```
-
----
-
-## 🛠️ פתרון בעיות נפוצות
-
-- ❗ `npm ERR! missing script: start`  
-  ודא שיש `start` בקובץ `package.json` בתיקיית `server`
-
-- ❗ `connect ECONNREFUSED 127.0.0.1:27017`  
-  ודא ש־MongoDB רץ (`mongod`)
-
-- ❗ `TS17004: Cannot use JSX unless the '--jsx' flag is provided.`  
-  הוסף `jsx: "react-jsx"` לקובץ `tsconfig.json`
-
----
