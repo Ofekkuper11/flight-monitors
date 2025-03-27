@@ -23,3 +23,7 @@
 cd server
 npm install
 npm start
+---
+השרת ירוץ בכתובת:
+
+http://localhost:5000
