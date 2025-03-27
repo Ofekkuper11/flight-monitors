@@ -19,7 +19,6 @@
 
 ### 1. הרצת השרת
 
-```bash
 cd server
 npm install
 npm start
